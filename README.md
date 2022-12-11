@@ -122,8 +122,3 @@ plotter.plot()
 
 plotter.plot2()
 <img width="1154" alt="Screen Shot 2022-12-12 at 8 27 29 AM" src="https://user-images.githubusercontent.com/63583602/206935239-78f13219-706b-4f85-a78c-80a3d5315312.png">
-
-
-
-
-- 
